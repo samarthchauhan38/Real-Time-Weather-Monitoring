@@ -5,7 +5,6 @@ This project implements a real-time weather monitoring system that fetches weath
 # Real-Time Weather Monitoring System
 
 This project implements a real-time weather monitoring system that fetches weather data from the OpenWeatherMap API, processes it to provide daily summaries, and sends alerts based on user-defined thresholds.
-![TestAlert](https://github.com/user-attachments/assets/cd90b44b-ef20-4555-b5da-67301ecfe8a0)
 
 ## Table of Contents
 
@@ -70,4 +69,5 @@ Dependencies
 requests: For making HTTP requests to the OpenWeatherMap API.
 pushbullet.py: For sending push notifications via Pushbullet.
 sqlite3: For database management (part of Python’s standard library).
+![TestAlert](https://github.com/user-attachments/assets/cd90b44b-ef20-4555-b5da-67301ecfe8a0)
 
